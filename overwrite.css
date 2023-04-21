@@ -1,5 +1,5 @@
 .copyright-text,.footer-copyright{
-            opacity: 0 !important;
-            visibility: hidden !important;
-            display: none !important;
+            opacity: 0 !important !important;
+            visibility: hidden !important !important;
+            display: none !important !important;
         }
